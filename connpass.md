@@ -74,12 +74,12 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 10:10 - 10:30 | 本田 裕介 [@ponday_dev](https://twitter.com/ponday_dev)  | Web Componentsの動向とPolymer |
 | 10:20 - 10:50 | 新福　宜侑 [@puku0x](https://twitter.com/puku0x) | Angularの今とこれから |
 | 10:50 - 11:05 |  | 休憩 |
-| 11:05 - 11:15 | dsk_tsutsu | 10分セッション-1 |
+| 11:05 - 11:15 | dsk_tsutsu | Androidユーザーが知っておくべきユーザー補助機能を使って出来る事 |
 | 11:15 - 11:25 | kobatako | 10分セッション-2 |
 | 11:25 - 11:35 | yukitaka13 | 10分セッション-3 |
-| 11:35 - 11:45 | edvakf | 10分セッション-4 |
+| 11:35 - 11:45 | [edvakf](https://twitter.com/edvakf) | フルCDNアーキテクチャでサイトを作ってみた話 |
 | 11:45 - 13:00 |  | 休憩(昼食タイム) |
-| 13:00 - 13:10 | Yusuke Otawa | 10分セッション-5 |
+| 13:00 - 13:10 | 大多和祐介 [@tawachan39](https://twitter.com/tawachan39) | ReactとReact Nativeを共通化させる試みの話（序章） |
 | 13:10 - 13:20 | 西 武史 [@_takeshi_24](https://twitter.com/_takeshi_24) | Vue.jsとSolidityでDapps |
 | 13:20 - 13:30 | 森建 | 10分セッション-7 |
 | 13:30 - 13:40 | skanmera | TowerDefenseを強化学習でクリアしてみた話 |
@@ -102,7 +102,7 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 17:20 - 17:25 | スポンサーLT-4 | ピクシブ株式会社 |
 | 17:25 - 17:35 |  | インターバル |
 | 17:35 - 17:40 | 永井 ひろかず | VUIの歩き方 |
-| 17:40 - 17:45 | LT-2 | タイトル |
+| 17:40 - 17:45 | 松村優大 @tsubakimoto_s | 翌週にC#のお祭りを開催します |
 | 17:45 - 17:50 | LT-3 | タイトル |
 | 17:50 - 17:55 | LT-4 | タイトル |
 | 17:55 - 18:00 | LT-5 | タイトル |
