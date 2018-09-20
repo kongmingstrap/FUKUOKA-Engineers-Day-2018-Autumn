@@ -56,7 +56,7 @@ DeepLearningを用いて少ない画像で効率よく学習させる手法の�
 
 ### 登壇者
 
-長井 孝幸 [yukitaka13](https://github.com/yukitaka13-1110)
+長井 孝幸 [@yukitaka13](https://github.com/yukitaka13-1110)
 
 ### 概要
 
