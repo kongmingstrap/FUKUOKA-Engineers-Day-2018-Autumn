@@ -76,12 +76,12 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 10:50 - 11:05 |  | 休憩 |
 | 11:05 - 11:15 | dsk_tsutsu | Androidユーザーが知っておくべきユーザー補助機能を使って出来る事 |
 | 11:15 - 11:25 | kobatako | Erlangでソフトウエアルータを作ってる話 |
-| 11:25 - 11:35 | yukitaka13 | 10分セッション-3 |
+| 11:25 - 11:35 | 長井 孝幸 [@yukitaka13](https://github.com/yukitaka13-1110) | DeepLearningを用いて少ない画像で効率よく学習させる手法の話(転移学習・FineTuning) |
 | 11:35 - 11:45 | [edvakf](https://twitter.com/edvakf) | フルCDNアーキテクチャでサイトを作ってみた話 |
 | 11:45 - 13:00 |  | 休憩(昼食タイム) |
 | 13:00 - 13:10 | 大多和祐介 [@tawachan39](https://twitter.com/tawachan39) | ReactとReact Nativeを共通化させる試みの話（序章） |
 | 13:10 - 13:20 | 西 武史 [@_takeshi_24](https://twitter.com/_takeshi_24) | Vue.jsとSolidityでDapps |
-| 13:20 - 13:30 | 森建 | 10分セッション-7 |
+| 13:20 - 13:30 | 森建 [@moriken](https://social.kimamass.com/@moriken) | Cloud FunctionsでOpenGraph Protocolの画像を自動生成する |
 | 13:30 - 13:40 | skanmera | TowerDefenseを強化学習でクリアしてみた話 |
 | 13:40 - 13:55 | 冨永　亨  @tommy_tomtoru  | 来客対応システムを作った |
 | 13:55 - 14:05 |  | 休憩 |
@@ -94,16 +94,16 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 15:40 - 16:00 | フレディ | Swiftでつくるインタプリタのおはなし（仮） |
 | 16:00 - 16:20 |  | 休憩 |
 | 16:20 - 16:40 | 加藤 司 | あなたとわたしの仲介人♡サービスブローカー |
-| 16:40 - 17:00 | きしだなおき | 20分セッション-7 |
+| 16:40 - 17:00 | きしだなおき | Javaの現状まとめとこれから |
 | 17:00 - 17:05 |  | 休憩 & 乾杯 |
-| 17:05 - 17:10 | 黒田直樹(マネーフォワード執行役員 福岡拠点長) | マネーフォワード福岡拠点のご紹介 |
+| 17:05 - 17:10 | 黒田直樹 [@nkwhat](https://twitter.com/nkwhat) | マネーフォワード福岡拠点のご紹介 |
 | 17:10 - 17:15 | 宮末　啓吾 [@foxtrackjp](https://twitter.com/foxtrackjp) | 株式会社ベガコーポレーション |
 | 17:15 - 17:20 | @ukitaka | 株式会社メルカリ |
 | 17:20 - 17:25 | [edvakf](https://twitter.com/edvakf) | ピクシブ株式会社 |
 | 17:25 - 17:35 |  | インターバル |
 | 17:35 - 17:40 | 永井 ひろかず | VUIの歩き方 |
 | 17:40 - 17:45 | 松村優大 @tsubakimoto_s | 翌週にC#のお祭りを開催します |
-| 17:45 - 17:50 | LT-3 | タイトル |
+| 17:45 - 17:50 | いたる [@itaru_sugimoto](https://twitter.com/itaru_sugimoto) | Swift4.2そして5.0へ |
 | 17:50 - 17:55 | LT-4 | タイトル |
 | 17:55 - 18:00 | LT-5 | タイトル |
 | 18:00 - 19:30 |  | 懇親会 |
