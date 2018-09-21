@@ -72,7 +72,7 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 |---------------|--------------------|------------|
 | 10:00 - 10:10 | 松村 亮輔[@rxpaki](https://twitter.com/rxpaki) | オープニング |
 | 10:10 - 10:30 | 本田 裕介 [@ponday_dev](https://twitter.com/ponday_dev)  | Web Componentsの動向とPolymer |
-| 10:20 - 10:50 | 新福　宜侑 [@puku0x](https://twitter.com/puku0x) | Angularの今とこれから |
+| 10:30 - 10:50 | 新福　宜侑 [@puku0x](https://twitter.com/puku0x) | Angularの今とこれから |
 | 10:50 - 11:05 |  | 休憩 |
 | 11:05 - 11:15 | dsk_tsutsu | Androidユーザーが知っておくべきユーザー補助機能を使って出来る事 |
 | 11:15 - 11:25 | kobatako | Erlangでソフトウエアルータを作ってる話 |
@@ -104,7 +104,7 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 17:35 - 17:40 | 永井 ひろかず | VUIの歩き方 |
 | 17:40 - 17:45 | 松村優大 @tsubakimoto_s | 翌週にC#のお祭りを開催します |
 | 17:45 - 17:50 | いたる [@itaru_sugimoto](https://twitter.com/itaru_sugimoto) | Swift4.2そして5.0へ |
-| 17:50 - 17:55 | LT-4 | タイトル |
+| 17:50 - 17:55 | 主計義高 @nesskazu | IIjmioのクーポンアプリを作っている話 |
 | 17:55 - 18:00 | LT-5 | タイトル |
 | 18:00 - 19:30 |  | 懇親会 |
 | 19:30 - 20:00 |  | 片付け |
