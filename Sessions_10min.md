@@ -115,15 +115,15 @@ Vue.jsとSolidityを使ってEthereumプラットフォーム上で動作するD
 
 ### タイトル
 
-***セッションタイトルをここに記載してください***
+Cloud FunctionsでOpenGraph Protocolの画像を自動生成する
 
 ### 登壇者
 
-***登壇者名をここに記載してください***
+森建 [@moriken](https://social.kimamass.com/@moriken)
 
 ### 概要
 
-***登壇者名をここに記載してください***
+Firebase Cloud Functionsにてnode-canvasを使ってOpenGraph Protocolの画像を自動生成した話をします。
 
 ***
 
